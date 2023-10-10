@@ -1,0 +1,15 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"y":"h","t":"1641 PROJECT","i":"home"},["/README.md"]],
+  ["v-2e3eac9e","/slides.html",{"y":"s","t":"Slide page","i":"person-chalkboard"},[":md"]],
+  ["v-4e65ec78","/demo/disable.html",{"y":"a","t":"Disabling layout and features","i":"gears","O":3},[":md"]],
+  ["v-c151bf32","/demo/encrypt.html",{"y":"a","t":"Encryption Article","i":"lock"},[":md"]],
+  ["v-438ffe52","/demo/markdown.html",{"y":"a","t":"Markdown Enhance","i":"fab fa-markdown","O":2},[":md"]],
+  ["v-6e19edb7","/demo/page.html",{"y":"a","t":"Page Config","i":"file","O":1},[":md"]],
+  ["v-1473bf53","/demo/",{"y":"a","t":"Features demo","i":"laptop-code"},["/demo/README.md"]],
+  ["v-fffb8e28","/guide/",{"y":"a","t":"Guide","i":"lightbulb"},["/guide/README.md"]],
+  ["v-177e1f06","/guide/bar/baz.html",{"y":"a","t":"Baz","i":"circle-info"},[":md"]],
+  ["v-5d5c2d30","/guide/bar/",{"y":"a","t":"Bar feature","i":"lightbulb"},["/guide/bar/README.md"]],
+  ["v-0b6fc5f8","/guide/foo/ray.html",{"y":"a","t":"Ray","i":"circle-info"},[":md"]],
+  ["v-5d5821d6","/guide/foo/",{"y":"a","t":"Foo feature","i":"lightbulb"},["/guide/foo/README.md"]],
+  ["v-3706649a","/404.html",{"y":"p","t":""},[]],
+]
