@@ -22,16 +22,16 @@ highlights:
       background-size: initial
     features:
       - title: Loverskey
-        icon: person-chalkboard
-        details: Loverskey は、 Mastodon APIが使える Misskeyとして現在開発中です。続報をお待ちを。
-        link: https://github.com/1641p/Lovers
+        icon: https://raw.githubusercontent.com/1641project/renedon/6b2aea1000f90a7a04e0f321120aebf159abd07c/public/badge.png
+        details: Renedonは、kmycode/mastodonをベースにし、Re:nedonで動作するように少し変更を加えたMastodonです。
+        link: https://github.com/1641project/renedon.git
 
   - header: Member
     image: 
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: 164
+      - title: 1641s
         icon: https://avatars.githubusercontent.com/u/146170742?v=4
         details: Project Reader
         link: https://github.com/1641s

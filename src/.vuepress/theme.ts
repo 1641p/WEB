@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://1641p.pro",
+  hostname: "https://1641project.org/",
 
   author: {
     name: "1641 PROJECT",
-    url: "https://1641p.pro",
+    url: "https://1641project.org/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/icon.png",
 
-  repo: "1641p/web",
+  repo: "1641project/web",
 
   docsDir: "src",
 
