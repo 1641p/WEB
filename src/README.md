@@ -21,9 +21,9 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: Loverskey
+      - title: Re:nedon
         icon: https://raw.githubusercontent.com/1641project/renedon/6b2aea1000f90a7a04e0f321120aebf159abd07c/public/badge.png
-        details: Renedonは、kmycode/mastodonをベースにし、Re:nedonで動作するように少し変更を加えたMastodonです。
+        details: Re:nedonは、kmycode/mastodonをベースにし、Re:nedonで動作するように少し変更を加えたMastodonです。
         link: https://github.com/1641project/renedon.git
 
   - header: Member
