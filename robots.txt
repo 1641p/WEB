@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://1641p.pro/sitemap.xml
+Sitemap: https://1641project.org/sitemap.xml
